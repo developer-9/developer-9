@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apideveloper-9)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apideveloper-9&hide=contribs,prs)
+[![developer-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-9)](https://github.com/anuraghazra/github-readme-stats)
+![developer-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-9&hide=contribs,prs)
 
 
 <!--
