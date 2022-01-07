@@ -1,6 +1,6 @@
 ### Hi there👋
 
-I'm Taisei Sakamoto.  🧑🏼‍🚀
+I'm Taisei Sakamoto.🧑🏼‍🚀  
 I am a student working on iOS application development.👨🏻‍💻
 
 <!-- ![developer-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-9&show_icons=true&theme=radical&count_private=true)
