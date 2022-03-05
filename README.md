@@ -1,7 +1,7 @@
 ### Hi there👋
 
 I'm Taisei Sakamoto.🧑🏼‍🚀  
-I'm a student and an intern in iOS development.👨🏻‍💻
+I'm a student and an internship in iOS development.👨🏻‍💻
 
 <!-- ![developer-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-9&show_icons=true&theme=radical&count_private=true)
 
